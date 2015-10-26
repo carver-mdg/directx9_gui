@@ -1,0 +1,3 @@
+CAnimation::Деструктор 
+CSpriteFont::Деструктор 
+DXData::Деструктор 
